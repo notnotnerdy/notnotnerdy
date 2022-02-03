@@ -2,9 +2,9 @@
 
 My name is Garv, Im a developer who love to teach what I learn in the hope to help others.
 
-When Im not coding I like to
+### When Im not coding I like to
 
-:farmer: Work in the garden, my chillis are the greatest success story this year
+:farmer: Work in the garden, my chillis are the greatest success story this year <br>
 :guitar: Play Guitar, I know 6 song now and counting
 
 <!--
